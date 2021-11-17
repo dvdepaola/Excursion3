@@ -12,7 +12,8 @@ body {
 
 }
 
-p {
+
+.link-cta {
     color: aquamarine;
     font-size: 16px;
 }
