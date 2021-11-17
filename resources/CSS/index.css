@@ -29,3 +29,9 @@ body {
     color: gray;
 
 }
+
+.footer {
+    font-size: 21;
+    color: gray;
+    text-align: right;
+}
